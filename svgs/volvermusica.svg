@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="300"
+   viewBox="0 0 13.229167 79.374996"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="volvermusica.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4734708"
+     inkscape:cx="-190.02752"
+     inkscape:cy="185.9555"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-58.868984"
+       y="-15.906808"
+       width="28.414381"
+       height="277.58464"
+       id="rect13660" />
+    <rect
+       x="15.721534"
+       y="16.81615"
+       width="23.829202"
+       height="273.55287"
+       id="rect13602" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9875">
+      <stop
+         style="stop-color:#b80028;stop-opacity:1;"
+         offset="0"
+         id="stop9871" />
+      <stop
+         style="stop-color:#703070;stop-opacity:1;"
+         offset="1"
+         id="stop9873" />
+    </linearGradient>
+    <rect
+       x="58.559868"
+       y="33.476288"
+       width="638.39398"
+       height="207.56769"
+       id="rect6253" />
+    <linearGradient
+       id="linearGradient2490-1">
+      <stop
+         style="stop-color:#8c0000;stop-opacity:1;"
+         offset="0"
+         id="stop2499" />
+      <stop
+         style="stop-color:#bd2000;stop-opacity:1;"
+         offset="0.24621126"
+         id="stop2501" />
+      <stop
+         style="stop-color:#fa1e0e;stop-opacity:1;"
+         offset="0.49915984"
+         id="stop2488" />
+      <stop
+         style="stop-color:#ffbe0f;stop-opacity:1;"
+         offset="0.75383222"
+         id="stop2503" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient852"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop850" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9875"
+       id="linearGradient9883"
+       x1="0"
+       y1="39.6875"
+       x2="13.229167"
+       y2="39.6875"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient9883);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect8779"
+       width="13.229167"
+       height="79.375"
+       x="0"
+       y="0"
+       ry="1.503613" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.479348,6.7766984)"
+       id="text13658"
+       style="font-size:37.3333px;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect13660);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"><tspan
+         x="-55.134116"
+         y="16.760389"
+         id="tspan13753"><tspan
+           style="fill:#ffffff"
+           id="tspan13751">v
+</tspan></tspan><tspan
+         x="-56.608754"
+         y="63.427015"
+         id="tspan13757"><tspan
+           style="fill:#ffffff"
+           id="tspan13755">o
+</tspan></tspan><tspan
+         x="-49.254111"
+         y="110.09364"
+         id="tspan13761"><tspan
+           style="fill:#ffffff"
+           id="tspan13759">l
+</tspan></tspan><tspan
+         x="-55.134116"
+         y="156.76027"
+         id="tspan13765"><tspan
+           style="fill:#ffffff"
+           id="tspan13763">v
+</tspan></tspan><tspan
+         x="-56.235449"
+         y="203.42689"
+         id="tspan13769"><tspan
+           style="fill:#ffffff"
+           id="tspan13767">e
+</tspan></tspan><tspan
+         x="-51.624755"
+         y="250.09352"
+         id="tspan13773"><tspan
+           style="fill:#ffffff"
+           id="tspan13771">r</tspan></tspan></text>
+  </g>
+</svg>
